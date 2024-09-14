@@ -7,7 +7,7 @@ export default function Home() {
       <main className={styles.main}>
         <ol>
           <li>
-            Let's get this party started!
+            Let&apos;s get this party started!
           </li>
         </ol>
       </main>
